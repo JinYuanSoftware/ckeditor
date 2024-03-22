@@ -1,5 +1,5 @@
 {
-    "name": "JinYuanSoftware/ckeditor",
+    "name": "jinyuansoftware/ckeditor",
     "description": "Integrate CKEDITOR into laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "editor", "CKEditor"],
